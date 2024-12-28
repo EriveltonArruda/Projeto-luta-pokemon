@@ -2,4 +2,4 @@ Projeto feito em orientação a objetos com Javascript com base no projeto de lu
 
 ## Screenshot do projeto
 
-<img src="https://imgur.com/a/54BeiPG" alt="Screenshot do projeto">
+<img src="[https://imgur.com/a/54BeiPG](https://imgur.com/a/54BeiPG)" alt="Screenshot do projeto">
